@@ -37,7 +37,7 @@ public class SetClosePlaceTag : MonoBehaviour
   private string language = "ja";
 
   private int radius = 150;
-  private string key = "AIzaSyAwY1AxWB9575M4b1ojpbs1ov8jO9Tz-7w";
+  private string key = "";
   private string url = "https://maps.googleapis.com/maps/api/place/nearbysearch/json?";
 
   public SetObjectRealWorld SetObjectRealWorld;
